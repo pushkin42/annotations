@@ -1,5 +1,5 @@
 {
-    "name": "laravelcollective/annotations",
+    "name": "pushkin42/annotations",
     "description": "Route Annotations for The Laravel Framework.",
     "license": "MIT",
     "homepage": "http://laravelcollective.com",
@@ -20,7 +20,7 @@
     "require": {
         "php": "^7.2",
         "illuminate/console": "^9.0",
-        "illuminate/filesystem": "^6.0",
+        "illuminate/filesystem": "^9.0",
         "illuminate/support": "^9.0",
         "doctrine/annotations": "^1.13"
     },
